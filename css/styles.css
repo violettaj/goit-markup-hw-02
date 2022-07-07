@@ -1,4 +1,100 @@
-body {
-    color:#212121;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap");
 
+body {
+    color: #212121;
+    font-family: 'Roboto', 'Raleway', 'Montserrat', sans-serif;
+    background: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.menu-nav {
+    width: 1600px;
+    height: 80px;
+
+}
+
+.main-logo {
+    color: #000000;
+    font-family: 'Raleway';
+    font-size: 26px;
+    text-decoration: none;
+    line-height: 1.2;
+    
+}
+
+.first-word {
+    color: #2196F3;
+}
+
+.menu {
+    color: #212121;
+    font-weight: 500;
+font-size: 14px;
+text-decoration: none;
+line-height: 1.1;
+
+}
+
+.menu:hover {
+    color: #2196F3; 
+}
+
+.menu:focus {
+    color: #2196F3; 
+}
+
+.header-mail, .header-tel {
+    color: #757575;
+    font-weight: 500;
+font-size: 14px;
+text-decoration: none;
+line-height: 1.1;
+}
+
+.header-mail:hover, .header-tel:hover {
+    color: #2196F3;
+}
+
+.header-mail:focus, .header-tel:focus {
+    color: #2196F3;
+}
+
+.footer-logo {
+    font-family: 'Raleway';
+    font-size: 26px;
+    text-decoration: none;
+    line-height: 1.2;
+    color: #FFFFFF;
+}
+.address {
+    font-size: 14px;
+    line-height: 1.7;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.footer-mail, .footer-tel {
+    font-size: 14px;
+    line-height: 1.7;
+    font-style: normal;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
+.footer-mail:hover, .footer-tel:hover {
+    text-decoration: underline;
+}
+
+.footer-mail:focus, .footer-tel:focus {
+text-decoration: underline;
+}
+
+footer {
+    background-color: #2F303A;
+    width: 1600px;
+    height: 252px;
 }
