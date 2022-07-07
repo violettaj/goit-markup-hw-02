@@ -10,12 +10,6 @@ ul {
     list-style-type: none;
 }
 
-.menu-nav {
-    width: 1600px;
-    height: 80px;
-
-}
-
 .main-logo {
     color: #000000;
     font-family: 'Raleway';
@@ -30,7 +24,6 @@ ul {
 }
 
 .menu {
-    color: #212121;
     font-weight: 500;
 font-size: 14px;
 text-decoration: none;
@@ -86,15 +79,59 @@ line-height: 1.1;
 }
 
 .footer-mail:hover, .footer-tel:hover {
-    text-decoration: underline;
+    color: #2196F3;
 }
 
 .footer-mail:focus, .footer-tel:focus {
-text-decoration: underline;
+    color: #2196F3;
 }
 
 footer {
     background-color: #2F303A;
     width: 1600px;
     height: 252px;
+}
+
+.main-block {
+    height: 600px;
+width: 1600px;
+background-color: #2F303A;
+text-align: center;
+}
+
+h1 {
+    font-weight: 900;
+font-size: 44px;
+color: #FFFFFF;
+line-height: 1.4;
+}
+
+.features-list {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #757575;
+}
+
+.features-title {
+    font-weight: 700;
+    line-height: 1.1;
+    color: #212121;
+}
+
+.second-header {
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.2;
+}
+
+.name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+.profession {
+    font-size: 16px;
+    line-height: 1.2;
+    color: #757575;
 }
