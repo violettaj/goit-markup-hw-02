@@ -135,3 +135,15 @@ line-height: 1.2;
     line-height: 1.2;
     color: #757575;
 }
+
+.project-name {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.project-filtres {
+    font-size: 16px;
+    line-height: 1.9;
+    color: #757575;
+}
