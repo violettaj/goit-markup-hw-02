@@ -28,6 +28,7 @@ ul {
 font-size: 14px;
 text-decoration: none;
 line-height: 1.1;
+color:#212121;
 
 }
 
@@ -146,4 +147,96 @@ line-height: 1.2;
     font-size: 16px;
     line-height: 1.9;
     color: #757575;
+}
+
+.main-button {
+    width: 200px;
+    height: 50px;
+    font-weight: 700;
+font-size: 16px;
+line-height: 1.9;
+cursor: pointer;
+}
+
+.main-button:hover {
+    color: #FFFFFF;
+    background-color: #2196F3;
+    border-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+
+.main-button:focus {
+    color: #FFFFFF;
+    background-color: #2196F3;
+    border-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+
+.first-button:hover, .second-button:hover, .third-button:hover, .fourth-button:hover, .fifth-button:hover {
+    color: #FFFFFF;
+    background: #2196F3;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    border-color: #2196F3;
+}
+
+.first-button:focus, .second-button:focus, .third-button:focus, .fourth-button:focus, .fifth-button:focus {
+    color: #FFFFFF;
+    background: #2196F3;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    border-color: #2196F3;
+}
+
+.first-button {
+    width: 121px;
+    height: 38px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    cursor: pointer;
+    border-color: #F5F4FA;
+    
+}
+
+.second-button {
+    width: 93px;
+    height: 38px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    cursor: pointer;
+    border-color: #F5F4FA;
+}
+
+.third-button {
+    width: 114px;
+    height: 38px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    cursor: pointer;
+    border-color: #F5F4FA;
+}
+
+.fourth-button {
+    width: 91px;
+    height: 38px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    cursor: pointer;
+    border-color: #F5F4FA;
+}
+
+.fifth-button {
+    width: 121px;
+    height: 38px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    cursor: pointer;
+    border-color: #F5F4FA;
 }
