@@ -16,7 +16,7 @@ ul {
     font-size: 26px;
     text-decoration: none;
     line-height: 1.2;
-    
+    letter-spacing: 0.03em; 
 }
 
 .first-word {
@@ -29,7 +29,7 @@ font-size: 14px;
 text-decoration: none;
 line-height: 1.1;
 color:#212121;
-
+letter-spacing: 0.02em;
 }
 
 .menu:hover {
@@ -46,6 +46,7 @@ color:#212121;
 font-size: 14px;
 text-decoration: none;
 line-height: 1.1;
+letter-spacing: 0.02em;
 }
 
 .header-mail:hover, .header-tel:hover {
@@ -61,11 +62,13 @@ line-height: 1.1;
     font-size: 26px;
     text-decoration: none;
     line-height: 1.2;
+    letter-spacing: 0.03em;
     color: #FFFFFF;
 }
 .address {
     font-size: 14px;
     line-height: 1.7;
+    letter-spacing: 0.03em;
     font-style: normal;
     color: #FFFFFF;
 }
@@ -73,6 +76,7 @@ line-height: 1.1;
 .footer-mail, .footer-tel {
     font-size: 14px;
     line-height: 1.7;
+    letter-spacing: 0.03em;
     font-style: normal;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.6);
@@ -105,11 +109,13 @@ h1 {
 font-size: 44px;
 color: #FFFFFF;
 line-height: 1.4;
+letter-spacing: 0.06em;
 }
 
 .features-list {
     font-size: 14px;
     line-height: 1.7;
+    letter-spacing: 0.03em;
     color: #757575;
 }
 
@@ -119,21 +125,24 @@ line-height: 1.4;
     color: #212121;
 }
 
-.second-header {
+.second-headers {
     font-weight: 700;
 font-size: 36px;
 line-height: 1.2;
+letter-spacing: 0.03em;
 }
 
 .name {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.2;
+    letter-spacing: 0.03em;
 }
 
 .profession {
     font-size: 16px;
     line-height: 1.2;
+    letter-spacing: 0.03em;
     color: #757575;
 }
 
@@ -141,12 +150,14 @@ line-height: 1.2;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
+    letter-spacing: 0.06em;
 }
 
 .project-filtres {
     font-size: 16px;
     line-height: 1.9;
     color: #757575;
+    letter-spacing: 0.03em;
 }
 
 .main-button {
@@ -155,6 +166,7 @@ line-height: 1.2;
     font-weight: 700;
 font-size: 16px;
 line-height: 1.9;
+letter-spacing: 0.06em;
 cursor: pointer;
 }
 
@@ -196,6 +208,7 @@ border-radius: 4px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
     cursor: pointer;
     border-color: #F5F4FA;
     
@@ -207,6 +220,7 @@ border-radius: 4px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
     cursor: pointer;
     border-color: #F5F4FA;
 }
@@ -217,6 +231,7 @@ border-radius: 4px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
     cursor: pointer;
     border-color: #F5F4FA;
 }
@@ -227,6 +242,7 @@ border-radius: 4px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
     cursor: pointer;
     border-color: #F5F4FA;
 }
@@ -237,6 +253,7 @@ border-radius: 4px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    letter-spacing: 0.03em;
     cursor: pointer;
     border-color: #F5F4FA;
 }
